@@ -1,0 +1,398 @@
+[
+  {
+    "tweet_id": "1992059108669927628",
+    "tweet_created_at": "2025-11-22T02:34:36.000Z",
+    "tweet_text": "Trump : Representative Greene resigning is great news for the country - ABC News reporter",
+    "event_type": "OTHER",
+    "country_region": "Global",
+    "impact": "Faible",
+    "explanation": "The resignation of a political figure may influence political dynamics, but it is unlikely to have a significant direct impact on financial markets."
+  },
+  {
+    "tweet_id": "1992056872086512095",
+    "tweet_created_at": "2025-11-22T02:25:43.000Z",
+    "tweet_text": "Trump: Representative Greene resigning is great news from the country - ABC News Reporter",
+    "event_type": "OTHER",
+    "country_region": "Global",
+    "impact": "Faible",
+    "explanation": "The resignation of a political figure may influence political dynamics, but it is unlikely to have a significant direct impact on financial markets."
+  },
+  {
+    "tweet_id": "1992037988142887027",
+    "tweet_created_at": "2025-11-22T01:10:41.000Z",
+    "tweet_text": "U.S. Representative Marjorie Taylor Greene: Last day in office January 5",
+    "event_type": "OTHER",
+    "country_region": "Global",
+    "impact": "Faible",
+    "explanation": "The announcement of a political figure's departure may have limited immediate financial implications, but it could influence future political dynamics."
+  },
+  {
+    "tweet_id": "1992037887546724858",
+    "tweet_created_at": "2025-11-22T01:10:17.000Z",
+    "tweet_text": "United States representative Marjorie Taylor Greene : I am resigning from office",
+    "event_type": "OTHER",
+    "country_region": "US",
+    "impact": "Faible",
+    "explanation": "The resignation of a U.S. representative may create political uncertainty, but its immediate impact on financial markets is likely to be minimal."
+  },
+  {
+    "tweet_id": "1992031340804657235",
+    "tweet_created_at": "2025-11-22T00:44:16.000Z",
+    "tweet_text": "United States Supreme Court temporarily pauses lower court order blocking Texas pro-Republican electoral map",
+    "event_type": "POLICY/REGULATION",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The Supreme Court's decision to pause the lower court order could influence electoral dynamics in Texas, potentially affecting political stability and market sentiment in the region."
+  },
+  {
+    "tweet_id": "1992022338536366267",
+    "tweet_created_at": "2025-11-22T00:08:30.000Z",
+    "tweet_text": "British Finance Minister Rachel Reeves expected to further protect those on national minimum wage at budget - United Kingdom Treasury",
+    "event_type": "POLICY/REGULATION",
+    "country_region": "UK",
+    "impact": "Moyen",
+    "explanation": "The announcement regarding the protection of minimum wage earners may influence consumer spending and overall economic stability in the UK, impacting market sentiment."
+  },
+  {
+    "tweet_id": "1992012695990894722",
+    "tweet_created_at": "2025-11-21T23:30:11.000Z",
+    "tweet_text": "Texas officials ask United States Supreme Court to allow a pro Republican electoral map that a lower court blocked",
+    "event_type": "POLICY/REGULATION",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The Supreme Court's decision on the electoral map could influence political power dynamics in the US, potentially affecting future legislation and economic policies."
+  },
+  {
+    "tweet_id": "1992008048735580422",
+    "tweet_created_at": "2025-11-21T23:11:43.000Z",
+    "tweet_text": "Chicago mayor office : it will not apply for Department of Justice community violence prevention grants linked to Trump's immigration policies",
+    "event_type": "OTHER",
+    "country_region": "Global",
+    "impact": "Faible",
+    "explanation": "The decision not to apply for these grants may reflect local policy priorities, but it is unlikely to have a significant impact on broader financial markets."
+  },
+  {
+    "tweet_id": "1992002642198032649",
+    "tweet_created_at": "2025-11-21T22:50:14.000Z",
+    "tweet_text": "Get our Tradingview Real-Time News Extension for Chrome and Firefox, now with:\n\n✅text headlines\n✅voice squawk\n✅calendar\n✅TickStrike orderflow\n\nChrome &gt; https://t.co/fqKcrXW3MW\nFireFox &gt; https://t.co/VNvNnRoJky https://t.co/iMgY9LIui9",
+    "event_type": "OTHER",
+    "country_region": "Global",
+    "impact": "Faible",
+    "explanation": "This tweet promotes a trading tool that may enhance trading efficiency, but it does not directly impact financial markets."
+  },
+  {
+    "tweet_id": "1992000262236762549",
+    "tweet_created_at": "2025-11-21T22:40:46.000Z",
+    "tweet_text": "UK’s PM Starmer: will continue to coordinate closely with Washington and Kyiv to achieve peace in Ukraine",
+    "event_type": "GEOPOLITICS",
+    "country_region": "UK",
+    "impact": "Moyen",
+    "explanation": "The UK Prime Minister's commitment to coordinate with the US and Ukraine may influence geopolitical stability in the region, which can affect market sentiment and investment decisions."
+  },
+  {
+    "tweet_id": "1992000097211838502",
+    "tweet_created_at": "2025-11-21T22:40:07.000Z",
+    "tweet_text": "UK’s PM Starmer: will discuss current proposal on table for Ukraine and in support of Trump's push for peace, examine how we can strengthen plan",
+    "event_type": "GEOPOLITICS",
+    "country_region": "UK",
+    "impact": "Moyen",
+    "explanation": "The discussion on Ukraine and support for peace initiatives could influence market sentiment, particularly in sectors sensitive to geopolitical stability and defense spending."
+  },
+  {
+    "tweet_id": "1991997245496218007",
+    "tweet_created_at": "2025-11-21T22:28:47.000Z",
+    "tweet_text": "U.S. Bureau of Labor Statistics: Bureau of Labor Statistics could not collect relevant CPI data for October; Bureau of Labor Statistics is unable to retroactively collect these data",
+    "event_type": "MACRO_DATA",
+    "country_region": "US",
+    "impact": "Élevé",
+    "explanation": "The inability to collect CPI data for October could lead to uncertainty in inflation measurements, impacting monetary policy and market expectations."
+  },
+  {
+    "tweet_id": "1991997081792491638",
+    "tweet_created_at": "2025-11-21T22:28:08.000Z",
+    "tweet_text": "U.S. Bureau of Labor Statistics: Bureau of Labor Statistics will not publish October real earnings data",
+    "event_type": "MACRO_DATA",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The absence of October real earnings data could impact market expectations regarding consumer spending and inflation, influencing economic forecasts."
+  },
+  {
+    "tweet_id": "1991996935553888397",
+    "tweet_created_at": "2025-11-21T22:27:33.000Z",
+    "tweet_text": "United States Bureau of Labor Statistics: real earnings data for November will be released Thursday, December 18",
+    "event_type": "MACRO_DATA",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The release of real earnings data is significant as it can influence consumer spending and economic growth forecasts, impacting market sentiment."
+  },
+  {
+    "tweet_id": "1991984907133112740",
+    "tweet_created_at": "2025-11-21T21:39:45.000Z",
+    "tweet_text": "Moody's: Despite fiscal challenges, the UK government's commitment to its fiscal rules is credit support and anchors the cost of debt at moderate levels.",
+    "event_type": "MACRO_DATA",
+    "country_region": "UK",
+    "impact": "Moyen",
+    "explanation": "Moody's assessment of the UK's fiscal commitment suggests stability in credit ratings, which can influence investor confidence and borrowing costs."
+  },
+  {
+    "tweet_id": "1991984680762257548",
+    "tweet_created_at": "2025-11-21T21:38:51.000Z",
+    "tweet_text": "Moody's: UK could reap bigger benefits than other countries from the advances in artificial intelligence.",
+    "event_type": "OTHER",
+    "country_region": "UK",
+    "impact": "Faible",
+    "explanation": "This tweet highlights potential economic benefits from AI advancements in the UK, which could influence investor sentiment but lacks immediate financial implications."
+  },
+  {
+    "tweet_id": "1991984581625684247",
+    "tweet_created_at": "2025-11-21T21:38:28.000Z",
+    "tweet_text": "Moody's: The UK Stable outlook reflects broadly balanced risks to the economic &amp; fiscal outlook, which are key drivers for the UK's sovereign rating.",
+    "event_type": "OTHER",
+    "country_region": "UK",
+    "impact": "Moyen",
+    "explanation": "Moody's assessment of the UK's stable outlook may influence investor confidence and affect the country's sovereign rating, impacting financial markets."
+  },
+  {
+    "tweet_id": "1991984564181651690",
+    "tweet_created_at": "2025-11-21T21:38:24.000Z",
+    "tweet_text": "Moody's Ratings affirms the UK's Aa3 rating with a stable outlook.",
+    "event_type": "OTHER",
+    "country_region": "UK",
+    "impact": "Moyen",
+    "explanation": "The affirmation of the UK's credit rating by Moody's indicates financial stability, which can influence investor confidence and market conditions."
+  },
+  {
+    "tweet_id": "1991980515277287823",
+    "tweet_created_at": "2025-11-21T21:22:18.000Z",
+    "tweet_text": "Week Ahead: Economic Indicators 24th – 28th November (US) https://t.co/jsVsVqBq21",
+    "event_type": "MACRO_DATA",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The upcoming economic indicators for the US could influence market sentiment and investor decisions, impacting various sectors."
+  },
+  {
+    "tweet_id": "1991979027033403747",
+    "tweet_created_at": "2025-11-21T21:16:23.000Z",
+    "tweet_text": "Stocks Stage Comeback at the End of a Jittery Week - US Market Wrap https://t.co/jFo3NBJl03",
+    "event_type": "OTHER",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The tweet indicates a recovery in US stocks after a volatile week, which could influence investor sentiment and market trends."
+  },
+  {
+    "tweet_id": "1991977283285078068",
+    "tweet_created_at": "2025-11-21T21:09:28.000Z",
+    "tweet_text": "Trump and Mamdani end remarks to press.",
+    "event_type": "OTHER",
+    "country_region": "Global",
+    "impact": "Faible",
+    "explanation": "The remarks from Trump and Mamdani may influence public sentiment and political discourse, but they do not have a direct financial impact on markets."
+  },
+  {
+    "tweet_id": "1991975689780883589",
+    "tweet_created_at": "2025-11-21T21:03:08.000Z",
+    "tweet_text": "UK budget's pensions tax raid to raise over £3bn - FT. https://t.co/aSX8KcepAM",
+    "event_type": "POLICY/REGULATION",
+    "country_region": "UK",
+    "impact": "Moyen",
+    "explanation": "The UK government's decision to increase taxes on pensions could impact consumer spending and savings behavior, influencing market sentiment and investment strategies."
+  },
+  {
+    "tweet_id": "1991975548432826474",
+    "tweet_created_at": "2025-11-21T21:02:34.000Z",
+    "tweet_text": "UK budget's pensions tax raid to raise over £3bn - FT.",
+    "event_type": "POLICY/REGULATION",
+    "country_region": "UK",
+    "impact": "Élevé",
+    "explanation": "The UK government's decision to implement a pensions tax raid could significantly impact consumer spending and investment, raising over £3 billion. This move may influence market sentiment and economic forecasts."
+  },
+  {
+    "tweet_id": "1991972931329732983",
+    "tweet_created_at": "2025-11-21T20:52:10.000Z",
+    "tweet_text": "Trump asked about Ukraine: Zelenskiy will have to like my plan.",
+    "event_type": "GEOPOLITICS",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "Trump's comments on Ukraine could influence U.S. foreign policy and market sentiment, especially regarding defense and energy sectors."
+  },
+  {
+    "tweet_id": "1991972618044641591",
+    "tweet_created_at": "2025-11-21T20:50:55.000Z",
+    "tweet_text": "🔴 MOC IMBALANCE\nS&amp;P 500: -992.8 MLN\nNASDAQ 100: -695.4 MLN\nDOW 30: -183.5 MLN\nMAG 7: 42.5 MLN $MACRO",
+    "event_type": "MACRO_DATA",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The significant MOC imbalance indicates a potential shift in market sentiment, which could lead to increased volatility in major US indices."
+  },
+  {
+    "tweet_id": "1991972327408767308",
+    "tweet_created_at": "2025-11-21T20:49:46.000Z",
+    "tweet_text": "Fitch on US Banks: Although it expects a slightly weaker economy in 2026, the bank operating environment will remain supportive.",
+    "event_type": "MACRO_DATA",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "Fitch's outlook on the US banking environment indicates potential economic challenges ahead, which could influence investor sentiment and market stability."
+  },
+  {
+    "tweet_id": "1991972122923852126",
+    "tweet_created_at": "2025-11-21T20:48:57.000Z",
+    "tweet_text": "Fitch on US Banks: Net interest income will remain steady for 2026 as modest margin pressures are offset by loan growth, and overall stable credit quality.",
+    "event_type": "EARNINGS",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "Fitch's outlook on US banks' net interest income and credit quality can influence investor sentiment and stock valuations in the banking sector."
+  },
+  {
+    "tweet_id": "1991971722946552076",
+    "tweet_created_at": "2025-11-21T20:47:22.000Z",
+    "tweet_text": "Fitch Ratings: US banks outlook neutral for 2026 amid emerging risks. https://t.co/6A30VSuzUL",
+    "event_type": "OTHER",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The neutral outlook for US banks indicates stability but highlights emerging risks that could affect financial performance, influencing investor sentiment and market dynamics."
+  },
+  {
+    "tweet_id": "1991971453294739755",
+    "tweet_created_at": "2025-11-21T20:46:18.000Z",
+    "tweet_text": "Fitch Ratings: US banks outlook neutral for 2026 amid emerging risks.",
+    "event_type": "MACRO_DATA",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The neutral outlook for US banks indicates potential stability but also highlights emerging risks that could affect financial performance and investor sentiment."
+  },
+  {
+    "tweet_id": "1991970636848365904",
+    "tweet_created_at": "2025-11-21T20:43:03.000Z",
+    "tweet_text": "CFTC Positions in the Week Ended October. 7th https://t.co/zhRpdmzsaR",
+    "event_type": "MACRO_DATA",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The CFTC positions report provides insights into market sentiment and trader positioning, which can influence trading strategies and market movements."
+  },
+  {
+    "tweet_id": "1991965676463165951",
+    "tweet_created_at": "2025-11-21T20:23:20.000Z",
+    "tweet_text": "Monday FX Option Expiries\nhttps://t.co/OP11PSuGB5",
+    "event_type": "OTHER",
+    "country_region": "Global",
+    "impact": "Faible",
+    "explanation": "FX option expiries can influence currency market volatility, but the impact is generally limited unless tied to significant economic events."
+  },
+  {
+    "tweet_id": "1991959133470478562",
+    "tweet_created_at": "2025-11-21T19:57:20.000Z",
+    "tweet_text": "White House: Trump signs proclamation to give regulatory relief for certain stationary sources to promote American coke oven processing security. https://t.co/qtLQ3sKPv7",
+    "event_type": "POLICY/REGULATION",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The regulatory relief for coke oven processing could impact the energy and manufacturing sectors, potentially affecting stock prices and market sentiment."
+  },
+  {
+    "tweet_id": "1991959056739914186",
+    "tweet_created_at": "2025-11-21T19:57:02.000Z",
+    "tweet_text": "White House: Trump signs proclamation to give regulatory relief for certain stationary sources to promote American coke oven processing security.",
+    "event_type": "POLICY/REGULATION",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The regulatory relief for coke oven processing could impact the energy and manufacturing sectors, potentially affecting stock prices and market sentiment in those industries."
+  },
+  {
+    "tweet_id": "1991958678900277749",
+    "tweet_created_at": "2025-11-21T19:55:32.000Z",
+    "tweet_text": "White House issues proclamation on critical material.",
+    "event_type": "POLICY/REGULATION",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The White House's proclamation on critical materials may influence supply chains and market dynamics, particularly in sectors reliant on these materials. This could affect stock prices and investment strategies."
+  },
+  {
+    "tweet_id": "1991956524059808165",
+    "tweet_created_at": "2025-11-21T19:46:58.000Z",
+    "tweet_text": "The Trump Administration has put on hold a draft executive order that would seek to preempt state laws on artificial intelligence - Sources.",
+    "event_type": "POLICY/REGULATION",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The delay in the executive order could impact the regulatory landscape for AI, affecting technology companies and investors in the sector."
+  },
+  {
+    "tweet_id": "1991956467495403722",
+    "tweet_created_at": "2025-11-21T19:46:45.000Z",
+    "tweet_text": "Brent crude futures settle at $62.56/bbl, down 82 cents, 1.29%.",
+    "event_type": "COMMODITIES",
+    "country_region": "Global",
+    "impact": "Moyen",
+    "explanation": "The decline in Brent crude futures indicates a drop in oil prices, which can affect energy stocks and inflation expectations globally."
+  },
+  {
+    "tweet_id": "1991955019005079714",
+    "tweet_created_at": "2025-11-21T19:40:59.000Z",
+    "tweet_text": "LIVE: Trump and Mamdani hold a meeting at the White House https://t.co/DrLiafoemy",
+    "event_type": "OTHER",
+    "country_region": "Global",
+    "impact": "Faible",
+    "explanation": "The meeting between Trump and Mamdani may have political implications, but it does not directly indicate any significant financial event or market impact."
+  },
+  {
+    "tweet_id": "1991953084994716126",
+    "tweet_created_at": "2025-11-21T19:33:18.000Z",
+    "tweet_text": "NYMEX Natural Gas December futures settle at $4.5800/MMBTU.",
+    "event_type": "COMMODITIES",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The settlement price of natural gas futures can influence energy markets and related sectors, impacting both producers and consumers."
+  },
+  {
+    "tweet_id": "1991952987233931400",
+    "tweet_created_at": "2025-11-21T19:32:55.000Z",
+    "tweet_text": "NYMEX Diesel December futures settle at $2.4564 a gallon.",
+    "event_type": "COMMODITIES",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The settlement price of NYMEX Diesel futures can influence fuel prices and transportation costs, impacting various sectors of the economy."
+  },
+  {
+    "tweet_id": "1991952886197256693",
+    "tweet_created_at": "2025-11-21T19:32:31.000Z",
+    "tweet_text": "NYMEX Gasoline December futures settle at $1.8834 a gallon.",
+    "event_type": "COMMODITIES",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The settlement price of NYMEX gasoline futures can influence market expectations for fuel prices, impacting consumers and businesses reliant on gasoline."
+  },
+  {
+    "tweet_id": "1991952807935775113",
+    "tweet_created_at": "2025-11-21T19:32:12.000Z",
+    "tweet_text": "NYMEX WTI crude January futures settle at $58.06 a barrel down 94 cents, 1.59%.",
+    "event_type": "COMMODITIES",
+    "country_region": "Global",
+    "impact": "Moyen",
+    "explanation": "The decline in WTI crude oil prices can impact energy stocks and inflation expectations, influencing broader market sentiment."
+  },
+  {
+    "tweet_id": "1991942005270990948",
+    "tweet_created_at": "2025-11-21T18:49:17.000Z",
+    "tweet_text": "🔴 ⚠️ BREAKING: Trump team internally floats selling Nvidia H200 chips to China. $NVDA",
+    "event_type": "POLICY/REGULATION",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The potential sale of Nvidia chips to China could impact US-China trade relations and affect Nvidia's stock performance, as it raises concerns over technology transfer and regulatory scrutiny."
+  },
+  {
+    "tweet_id": "1991938892543787287",
+    "tweet_created_at": "2025-11-21T18:36:55.000Z",
+    "tweet_text": "The Fed extends the stress test comment period until February 21st 2026.",
+    "event_type": "CENTRAL_BANK",
+    "country_region": "US",
+    "impact": "Moyen",
+    "explanation": "The extension of the comment period for stress tests may influence banks' capital planning and regulatory compliance, impacting market sentiment and financial stability."
+  },
+  {
+    "tweet_id": "1991938686758551558",
+    "tweet_created_at": "2025-11-21T18:36:06.000Z",
+    "tweet_text": "US President Trump and German Chancellor Merz spoke on the phone on Friday evening about the US peace plan for Ukraine - German Government Spokesperson.",
+    "event_type": "GEOPOLITICS",
+    "country_region": "Global",
+    "impact": "Moyen",
+    "explanation": "The discussion between US and German leaders regarding the peace plan for Ukraine could influence geopolitical stability in the region, affecting market sentiment and investor confidence."
+  }
+]
