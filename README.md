@@ -99,14 +99,6 @@ TWEET_LIMIT=10
 
 ### 1. Run the main pipeline
 
-You can specify both the username and the maximum number of tweets:
-
-```bash
-python main.py --username financialjuice --max-tweets 50
-```
-
-If you omit `--username`, the default account is `financialjuice`:
-
 ```bash
 python main.py --max-tweets 50
 ```
