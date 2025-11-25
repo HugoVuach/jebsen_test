@@ -156,6 +156,9 @@ This will open a page in your browser (or give you a local URL to open manually)
 
 The filters in the sidebar (time range, day/session, impact, event type, region) can be combined to focus on the events that matter most for your use case.
 
+![alt text](page1.png)
+![alt text](page2.png)
+
 
 
 
