@@ -110,29 +110,54 @@ This will:
 * classify each tweet with the LLM
 * save structured events in `data/structured_events/..._events.json`
 
-### 2. Visualize the impact distribution
 
-Once the events file has been generated, you can run:
+### 2. Visualize events with the Streamlit interface
 
-```bash
-python visualize_events.py
-```
-
-This script:
-
-* loads the latest structured events JSON file
-* groups events by `event_type`
-* prints them in the terminal with a color based on `impact`
-  (red = high, yellow = medium, grey = low)
-
+Instead of using CLI scripts, you can explore the results through a simple web UI built with Streamlit:
 
 ```bash
-python generate_timeline.py
-```
+streamlit run app.py
+````
 
-This script loads the latest structured events and generates a `timeline_events.png` file, showing a time-based view of all events by type, with colors indicating impact (red = high, yellow = medium, grey = low).
+This will open a page in your browser (or give you a local URL to open manually).
 
----
+**How to use the interface:**
+
+* **Sidebar (on the left):**
+
+  * Enter the X username you want to analyze (default: `financialjuice`, without the `@`).
+  * Choose the maximum number of tweets to fetch.
+  * Click on **“Run pipeline now”** to:
+
+    * fetch the latest tweets from the selected account,
+    * classify each tweet into a structured financial event using the LLM,
+    * save the raw tweets and structured events to the `data/` folder,
+    * refresh the visualizations on the page.
+
+* **Main view:**
+
+  * A **context panel** shows:
+
+    * which account is being analyzed,
+    * the time span covered by the filtered events,
+    * how many events are currently displayed,
+    * a quick breakdown by impact (high / medium / low).
+  * A **timeline chart** displays each event over time:
+
+    * Y-axis = Event type (e.g. *Macro data*, *Central banks*, *Policy & regulation*, …),
+    * point color = Impact (red = high, yellow = medium, grey = low),
+    * point size = Impact (larger points for higher impact),
+    * hover any point to see the tweet text and the LLM explanation.
+  * Below the chart, a **table of detailed events** lets you:
+
+    * sort by clicking on column headers (time, type, region, impact, etc.),
+    * scroll through the tweets and explanations.
+    * double-click on text cells to expand and read the full content.
+
+The filters in the sidebar (time range, day/session, impact, event type, region) can be combined to focus on the events that matter most for your use case.
+
+
+
 
 ## Design Choices
 
@@ -145,5 +170,4 @@ This script loads the latest structured events and generates a `timeline_events.
 
 * Use a **paid / higher-tier API key** (X or a third-party provider) for tweet collection to avoid rate limits and improve robustness.
 * Refine the **LLM prompt** and evaluate ex-post whether the `impact` classification aligns with realized market moves.
-* Add richer visualizations
 * Set up a WebSocket-based listener to ingest new tweets in real time and immediately run them through the LLM so events are detected and evaluated as soon as they appear.
