@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 Create a `.env` file at the project root (based on `.env.example`) and fill in:
 
-* your **OpenAI API key** and chosen **model** (e.g. `gpt-5-nano` or `gpt-4o-mini`)
+* your **OpenAI API key** and chosen **model** (e.g. `gpt-4o-mini`)
 * your **X** developer token
 * default output directory and tweet limit if needed
 
@@ -85,7 +85,7 @@ Example:
 
 ```env
 OPENAI_API_KEY=sk-...
-OPENAI_MODEL=gpt-5-nano
+OPENAI_MODEL=gpt-4o-mini
 
 X_BEARER_TOKEN=...
 
