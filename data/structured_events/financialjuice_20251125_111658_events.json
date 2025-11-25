@@ -1,0 +1,137 @@
+[
+  {
+    "tweet_id": "1993273576938459329",
+    "tweet_created_at": "2025-11-25T11:00:28.000Z",
+    "tweet_text": "UK CBI DISTRIBUTIVE TRADES ACTUAL -32 (FORECAST -30, PREVIOUS -27) $MACRO",
+    "event_type": "MACRO_DATA",
+    "country_region": "UK",
+    "impact": "Moyen",
+    "explanation": "The CBI Distributive Trades data indicates a larger-than-expected decline in retail sales, which could signal weakening consumer demand and impact economic growth forecasts."
+  },
+  {
+    "tweet_id": "1993270202063102395",
+    "tweet_created_at": "2025-11-25T10:47:03.000Z",
+    "tweet_text": "Ukraine’s President Zelenskiy: Spoke with UK's PM Starmer, Kyiv sees 'many prospects' for peace after the Geneva meeting",
+    "event_type": "GEOPOLITICS",
+    "country_region": "Global",
+    "impact": "Moyen",
+    "explanation": "The discussion of peace prospects between Ukraine and the UK could influence market sentiment, particularly in sectors sensitive to geopolitical stability."
+  },
+  {
+    "tweet_id": "1993267605621072334",
+    "tweet_created_at": "2025-11-25T10:36:44.000Z",
+    "tweet_text": "Alibaba Q2 2026 Earnings $BABA:\n\nRev. 247.8B Yuan, est. 245.2B Yuan\nAdj. EBITDA 17.26B Yuan, est. 19.3B Yuan\nAdj earnings per ads 4.36 Yuan, est. 6.34 Yuan",
+    "event_type": "EARNINGS",
+    "country_region": "China",
+    "impact": "Moyen",
+    "explanation": "Alibaba's Q2 earnings report shows revenue exceeding estimates but falling short on adjusted EBITDA and earnings per share, which may affect investor sentiment and stock performance."
+  },
+  {
+    "tweet_id": "1993265549690667018",
+    "tweet_created_at": "2025-11-25T10:28:34.000Z",
+    "tweet_text": "Russian Foreign Minister Lavrov: It is hard to say how firmly US will defend its position.",
+    "event_type": "GEOPOLITICS",
+    "country_region": "Global",
+    "impact": "Moyen",
+    "explanation": "The uncertainty expressed by the Russian Foreign Minister regarding US defense positions could impact global geopolitical stability, influencing market sentiment and investment decisions."
+  },
+  {
+    "tweet_id": "1993259009747698086",
+    "tweet_created_at": "2025-11-25T10:02:35.000Z",
+    "tweet_text": "Russian Foreign Minister Lavrov: Russia expects peace plan after us agrees it with Europe.",
+    "event_type": "GEOPOLITICS",
+    "country_region": "Global",
+    "impact": "Moyen",
+    "explanation": "The announcement of a potential peace plan involving the US and Europe could influence geopolitical stability, impacting global markets and investor sentiment."
+  },
+  {
+    "tweet_id": "1993258740716605548",
+    "tweet_created_at": "2025-11-25T10:01:31.000Z",
+    "tweet_text": "ECB's Makhlouf: Inflation in good place but risks remain.",
+    "event_type": "CENTRAL_BANK",
+    "country_region": "EU",
+    "impact": "Moyen",
+    "explanation": "The statement from ECB's Makhlouf indicates that while inflation is under control, there are still risks that could affect monetary policy. This could influence market expectations regarding interest rates and economic stability in the Eurozone."
+  },
+  {
+    "tweet_id": "1993258704033267795",
+    "tweet_created_at": "2025-11-25T10:01:22.000Z",
+    "tweet_text": "ECB's Makhlouf: I'm a bit worried about services, food inflation.",
+    "event_type": "MACRO_DATA",
+    "country_region": "EU",
+    "impact": "Moyen",
+    "explanation": "Concerns about services and food inflation from a central bank official may indicate potential economic challenges, influencing market expectations for monetary policy."
+  },
+  {
+    "tweet_id": "1993228985518686529",
+    "tweet_created_at": "2025-11-25T08:03:17.000Z",
+    "tweet_text": "Currency Strength Chart: Strongest JPY, GBP, EUR, USD, CAD, CHF, AUD, NZD - Weakest",
+    "event_type": "OTHER",
+    "country_region": "Global",
+    "impact": "Faible",
+    "explanation": "The tweet discusses the strength of various currencies, which can influence forex markets. However, it does not provide specific financial news or events."
+  },
+  {
+    "tweet_id": "1993228732815814930",
+    "tweet_created_at": "2025-11-25T08:02:16.000Z",
+    "tweet_text": "Japan's Foreign Minister Motegi: There is no date set as yet on the Japan, China and South Korea summit",
+    "event_type": "GEOPOLITICS",
+    "country_region": "Global",
+    "impact": "Moyen",
+    "explanation": "The uncertainty surrounding the Japan, China, and South Korea summit could affect regional diplomatic relations and economic cooperation, which may have implications for markets in the Asia-Pacific region."
+  },
+  {
+    "tweet_id": "1993226298827669545",
+    "tweet_created_at": "2025-11-25T07:52:36.000Z",
+    "tweet_text": "Kremlin, on Europe's role in the Ukraine settlement: It is impossible to discuss the security system without the participation of Europeans, at some stage, this will be necessary - RIA",
+    "event_type": "GEOPOLITICS",
+    "country_region": "Global",
+    "impact": "Moyen",
+    "explanation": "The Kremlin's statement highlights the importance of European involvement in the Ukraine settlement, which could influence geopolitical stability and market sentiment in the region."
+  },
+  {
+    "tweet_id": "1993224747681796133",
+    "tweet_created_at": "2025-11-25T07:46:26.000Z",
+    "tweet_text": "French Consumer Confidence November 2025 Report https://t.co/TmggSIekEo",
+    "event_type": "MACRO_DATA",
+    "country_region": "EU",
+    "impact": "Moyen",
+    "explanation": "The French Consumer Confidence report can influence market sentiment and economic forecasts in the Eurozone, affecting investment decisions."
+  },
+  {
+    "tweet_id": "1993224496988537068",
+    "tweet_created_at": "2025-11-25T07:45:27.000Z",
+    "tweet_text": "FRENCH CONSUMER CONFIDENCE ACTUAL 89 (FORECAST 90, PREVIOUS 90) $MACRO",
+    "event_type": "MACRO_DATA",
+    "country_region": "EU",
+    "impact": "Moyen",
+    "explanation": "The lower-than-expected consumer confidence in France may indicate weakening economic sentiment, which could affect market forecasts and investor behavior in the Eurozone."
+  },
+  {
+    "tweet_id": "1993216120615211009",
+    "tweet_created_at": "2025-11-25T07:12:09.000Z",
+    "tweet_text": "China's Mao: Xi-Trump call was initiated by the US",
+    "event_type": "GEOPOLITICS",
+    "country_region": "China",
+    "impact": "Moyen",
+    "explanation": "The initiation of a call between Xi and Trump could signal a potential thaw in US-China relations, which may impact trade and market sentiment."
+  },
+  {
+    "tweet_id": "1993215571031474340",
+    "tweet_created_at": "2025-11-25T07:09:58.000Z",
+    "tweet_text": "South Korea Finance Ministry to hold press conference on FX market on Wednesday - Ministry",
+    "event_type": "CENTRAL_BANK",
+    "country_region": "Global",
+    "impact": "Moyen",
+    "explanation": "The press conference by South Korea's Finance Ministry regarding the FX market could influence currency trading and investor sentiment, particularly in the Asian markets."
+  },
+  {
+    "tweet_id": "1993215514504757566",
+    "tweet_created_at": "2025-11-25T07:09:45.000Z",
+    "tweet_text": "China's foreign ministry, on Xi-Trump call: The atmosphere was positive, friendly, and constructive",
+    "event_type": "GEOPOLITICS",
+    "country_region": "China",
+    "impact": "Moyen",
+    "explanation": "The positive tone of the Xi-Trump call may ease tensions between the two countries, potentially impacting trade relations and market sentiment."
+  }
+]
